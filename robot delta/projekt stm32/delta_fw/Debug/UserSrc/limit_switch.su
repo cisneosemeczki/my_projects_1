@@ -1,0 +1,2 @@
+limit_switch.c:28:6:HAL_GPIO_EXTI_Callback	16	static
+limit_switch.c:125:6:kalibracja_krancowek	8	static

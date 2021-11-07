@@ -1,0 +1,3 @@
+uart_protocol.c:17:5:__io_putchar	24	static
+uart_protocol.c:30:6:odbior_danych_z_aplikacji	16	static
+uart_protocol.c:64:6:przypisanie_danych_do_zmiennych	72	static

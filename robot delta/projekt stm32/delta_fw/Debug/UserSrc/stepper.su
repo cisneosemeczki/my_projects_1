@@ -1,0 +1,9 @@
+stepper.c:35:6:Stepper_Init	4	static
+stepper.c:51:6:Stepper_Update	16	static
+stepper.c:64:6:Stepper_Enable	16	static
+stepper.c:72:6:Stepper_Disable	16	static
+stepper.c:80:6:Stepper_EnableAll	16	static
+stepper.c:91:18:Stepper_moveAbsPos	40	static
+stepper.c:125:18:Stepper_moveIncDist	32	static
+stepper.c:159:6:Stepper_EndStopHandler	16	static
+stepper.c:169:6:HAL_TIM_PWM_PulseFinishedCallback	16	static

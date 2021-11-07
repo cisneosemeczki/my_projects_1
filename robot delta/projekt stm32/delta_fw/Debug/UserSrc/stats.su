@@ -1,0 +1,5 @@
+stats.c:5:6:Stats_Init	8	static
+stats.c:10:6:Stats_Handler	4	static
+stats.c:15:10:Stats_GetCounter	4	static
+stats.c:20:6:Stats_SetCounter	16	static
+stats.c:27:6:HAL_TIM_PeriodElapsedCallback	16	static

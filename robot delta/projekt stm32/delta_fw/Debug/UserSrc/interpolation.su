@@ -1,0 +1,8 @@
+interpolation.c:21:6:liniowa_interpolacja	88	static
+interpolation.c:57:6:przegubowa_interpolacja	80	static
+interpolation.c:91:6:kolowa_interpolacja	2000	static
+interpolation.c:257:6:iloczyn_wektorowy	24	static
+interpolation.c:268:6:normalizacja	32	static
+interpolation.c:279:7:iloczyn_skalarny	16	static
+interpolation.c:287:6:mnozenie_wektora_przez_skalar	24	static
+interpolation.c:298:6:dodawanie_wektorow	24	static
